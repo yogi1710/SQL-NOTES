@@ -100,7 +100,7 @@ else:
   print(" b is the greatest")
  
  
- #write a program to find the greatest of 3 numbers 
+ #write a program to find the greatest of 3 numbers by taking input from the user
  
   
   
