@@ -117,7 +117,18 @@ Program 2: To check if a number is armstrong or not:
   
 1. Calculate the area of triangle, square and rectangle.
 2. Swap 3 numbers
-  
+3. fibonacci series
+0,1,1,2,3,5,8
+
+Logic:
+
+c= a+b
+a=b
+b=c
+
+
+
+
   
   
   
