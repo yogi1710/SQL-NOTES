@@ -1,0 +1,133 @@
+x=4
+x=1.2
+x="swathi"
+x='True"
+
+Pascal case:
+
+MyNameIs="Swathi"
+Camel Case:
+
+myNameIs:="swathi"
+Snake Case:
+my_name_is= "swathi"
+
+x,y,z= 2,5,2
+x,y,z="swathi","tara","radika"
+x=y=z="swathi"
+print(x)
+
+if x>5:
+ print("xis the greastest")
+ 
+ Loop statements:
+ 
+ for(initialization;condition; inc/dec)
+ 
+ colors=['black','red','green']
+ for loop:
+ for x in colors:
+  print(x)
+ 
+ While loop:
+ 
+ initialization;
+ while(cond)
+ {
+ stmts;
+ inc/dec;
+ }
+ 
+ i=5
+ while i<10:
+  print(i)
+  i+=1
+  
+ Pattern program:
+ 
+ 1
+ 12
+ 123
+ 1234
+ 12345
+ 
+ for(i=1;i<num;i++)
+ {
+  for(j=1;j<=i;j++)
+  {
+    printf("%d",j)
+    }
+    
+
+i=1
+j=1
+x=int(input("enter a number")
+for i in range(1, x+1):
+  for j in range(1, i+1):
+    print(j,end="")
+  print()
+ 
+  1
+  22
+  333
+  4444
+  55555
+ Program to find if a number is palindrome or not:
+ Logic:
+  while(num!=0)
+  {
+  rem= num%10;
+  rev= rev*10+rem;
+  num= num/10;
+  }
+  
+num=121
+rem=1
+rev=1
+num=12
+rem=2
+rev=12
+num=1
+rem=1
+rev=121
+num=0
+Program:
+
+Program 2: To check if a number is armstrong or not: 
+
+153= 1+125+27
+  Logic:
+  while(num!=0)
+  {
+  rem= num%10;
+  sum= sum+rem*rem*rem;
+  num= num/10;
+  }
+  
+  rem=3
+  sum=27
+  num=15
+  rem=5
+  sum=152
+  num=1
+  rem=1;
+  sum=153
+  
+  
+  
+1. Calculate the area of triangle, square and rectangle.
+2. Swap 3 numbers
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
